@@ -16,10 +16,10 @@ color: #2CA643 !important;
   width: 100px;
   height: 100px;
 }
-.container{
+.container
   width: 100px;
   height: 100px;
-}
+
 
 a{
   color: green;
@@ -29,6 +29,3 @@ a{
   margin-right: 30px;
 }
 
-a{
-  
-}
